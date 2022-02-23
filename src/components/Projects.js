@@ -14,7 +14,7 @@ export default function Projects() {
                         Apps I've Built
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Place holder for Projects page
+                        {/* Place holder for Projects page */}
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
