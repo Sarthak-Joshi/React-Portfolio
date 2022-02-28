@@ -41,7 +41,7 @@ export default function Contact() {
                         style={{ filter: "opacity(1)" }}
                         src="https://www.google.com/maps/embed/v1/place?q=29414&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
-                    <div className="bg-gray-500 relative flex flex-wrap py-6 rounded shadow-md">
+                    {/* <div className="bg-gray-500 relative flex flex-wrap py-6 rounded shadow-md">
                         <div className="lg:w-1/2 px-6">
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                                 ADDRESS
@@ -63,7 +63,7 @@ export default function Contact() {
                             </h2>
                             <p className="leading-relaxed">123-456-7890</p>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 <form
                     netlify="true"
