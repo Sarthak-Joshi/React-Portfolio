@@ -12,9 +12,9 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to build amazing
                         apps.
                     </h1>
-                    <p className="mb-8 leading-relaxed">
+                    {/* <p className="mb-8 leading-relaxed">
                         Placeholder for About page
-                    </p>
+                    </p> */}
                     <div className="flex justify-center">
                         <a
                             href="#contact"
@@ -32,7 +32,7 @@ export default function About() {
                     <img
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="./coding.svg"
+                        src="./code_thinking.svg"
                     />
                 </div>
             </div>

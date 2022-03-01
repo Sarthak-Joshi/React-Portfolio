@@ -53,12 +53,12 @@ export const testimonials = [
 ];
 
 export const skills = [
-  ".net",
+  ".NET | .NET Core",
   "MVC",
   "JavaScript",
   "React",
-  "Next.js",
+  // "Next.js",
   "Node",
-  "GraphQL",
+  // "GraphQL",
   "Material UI",
 ];
